@@ -1,2 +1,0 @@
-insert into Regla_Common..tblM_Module(ModuleID,CountryID,Description,DatabaseName,CreatedBy,CreatedDate)
-select 'ILAAP','ID','ILAAP','Regla_ILAAP','ADMIN',GETDATE()
